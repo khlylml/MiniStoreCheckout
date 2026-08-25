@@ -189,5 +189,3 @@ calculateButton.addEventListener("click", function () {
         <p><strong>Final Amount:</strong> ₱${finalAmount.toFixed(2)}</p>
     `;
 });
-
-console.log("Mini Store Checkout System loaded.");
